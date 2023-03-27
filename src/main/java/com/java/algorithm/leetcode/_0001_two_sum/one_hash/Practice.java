@@ -20,6 +20,8 @@ public class Practice {
             }
         }
 
+        System.out.println("-----------");
+
         return null;
     }
 
