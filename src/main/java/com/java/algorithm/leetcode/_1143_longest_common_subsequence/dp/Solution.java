@@ -2,9 +2,9 @@ package com.java.algorithm.leetcode._1143_longest_common_subsequence.dp;
 
 public class Solution {
 
-	public int longestCommonSubsequence(String str1, String str2) {
+	public static String lcse(String str1, String str2) {
 		if (str1 == null || str2 == null || str1.equals("") || str2.equals("")) {
-			return 0;
+			return "";
 		}
 		char[] chs1 = str1.toCharArray();
 		char[] chs2 = str2.toCharArray();
@@ -24,7 +24,7 @@ public class Solution {
 				n--;
 			}
 		}
-		return res.length;
+		return String.valueOf(res);
 	}
 
 	public static int[][] getdp(char[] str1, char[] str2) {
