@@ -1,4 +1,4 @@
-package com.java.algorithm.other.hj002;
+package com.java.algorithm.huawei.hj002;
 
 import java.util.Scanner;
 

@@ -1,6 +1,5 @@
-package com.java.algorithm.other.weight_random.wr_1;
+package com.java.algorithm.math.weight_random.weight_random_by_iterator;
 
-import com.java.algorithm.other.weight_random.wr_1.WeightRandom;
 import org.apache.commons.math3.util.Pair;
 import org.junit.Test;
 

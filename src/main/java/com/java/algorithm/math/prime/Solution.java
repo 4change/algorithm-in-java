@@ -1,4 +1,4 @@
-package com.java.algorithm.other.prime;
+package com.java.algorithm.math.prime;
 
 public class Solution {
 

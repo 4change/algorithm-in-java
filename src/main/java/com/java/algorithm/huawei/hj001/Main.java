@@ -1,4 +1,4 @@
-package com.java.algorithm.other.hj001;
+package com.java.algorithm.huawei.hj001;
 
 import java.util.Map;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.java.algorithm.other.weight_random.wr_1;
+package com.java.algorithm.math.weight_random.weight_random_by_iterator;
 
 import com.sun.istack.internal.NotNull;
 import org.apache.commons.math3.util.Pair;
